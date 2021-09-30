@@ -1,0 +1,2 @@
+# aws_first_package
+package contains Gaussiandistribution and Generaldistribution
